@@ -1,1 +1,1 @@
-# ICT Glossary
+# ICT Glossary offline dictionary
